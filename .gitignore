@@ -62,3 +62,15 @@ buildNumber.properties
 # Dependency directories
 src/main/webapp/node_modules/
 src/main/webapp/jspm_packages/
+.vscode-janus-debug
+struts2-app.iml
+.idea/compiler.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/artifacts/struts2_app_war.xml
+.idea/artifacts/struts2_app_war_exploded.xml
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+.vscode/launch.json
+.vscode/settings.json
